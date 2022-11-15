@@ -1,0 +1,62 @@
+[
+    {
+        "portada":"./img/1984-footloose-1525959340.png",
+        "nombre":"Footloose",
+        "id":"1"
+    },
+    {
+        "portada":"./img/alien.jfif",
+        "nombre":"Alien",
+        "id":"2"
+    },
+    {
+        "portada":"./img/future.jpg",
+        "nombre": "Volver Al Futuro",
+        "id":"3"
+    },
+    {
+        "portada":"./img/ghost.jfif",
+        "nombre":"Los Cazafantasmas",
+        "id":"4"
+    },
+    {
+        "portada":"./img/halloween.jpg",
+        "nombre":"Halloween",
+        "id":"5"
+    },
+    {
+        "portada":"./img/indiana.jpg",
+        "nombre":"Indiana Jones",
+        "id":"6"
+    },
+    {
+        "portada":"./img/kill.jpg",
+        "nombre":"Nacido para Matar",
+        "id":"7"
+    },
+    {
+        "portada":"./img/rambo.jpg",
+        "nombre":"Rambo",
+        "id":"8"
+    },
+    {
+        "portada":"./img/star.png",
+        "nombre":"Star Wars",
+        "id":"9"
+    },
+    {
+        "portada":"./img/strange.jpg",
+        "nombre":"Stranger Things",
+        "id":"10"
+    },
+    {
+        "portada":"./img/terminator.jpg",
+        "nombre":"Terminator",
+        "id":"11"
+    },
+    {
+        "portada":"./img/thing.jpg",
+        "nombre":"La Cosa",
+        "id":"12"
+    }
+]
